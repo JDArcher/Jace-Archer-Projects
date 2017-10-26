@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Polaris Alpha:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Polaris_Alpha_jar</output-path>
+    <root id="archive" name="Polaris Alpha.jar">
+      <element id="module-output" name="Polaris Alpha" />
+    </root>
+  </artifact>
+</component>
